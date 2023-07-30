@@ -1,5 +1,7 @@
 # DeepSolar Bangladesh: A Novel Convolutional Neural Network (CNN) Architecture for the Detection of Solar Panels from Low Resolution Satellite Imagery in Developing Countries
 
+See INSTRUCTIONS.md
+
 **Authors:** Farihah Ahmed  (Columbia University), Barbara Duckworth (MIT)
 
 **Mentor:** Barbara Duckworth
